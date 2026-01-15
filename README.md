@@ -7,7 +7,7 @@
 
 
 # Clone the repository
-git clone https://github.com/Anuj579/confession-site.git
+git clone <this repo link copy and paste here>
 
 # Navigate into the folder
 cd confession-site
