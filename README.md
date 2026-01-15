@@ -7,7 +7,7 @@
 
 
 # Clone the repository
-git clone <this repo link copy and paste here>
+git clone https://github.com/udip15/portfolio.git
 
 # Navigate into the folder
 cd confession-site
